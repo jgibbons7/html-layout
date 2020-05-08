@@ -26,10 +26,11 @@ body {
 
 .blue-circle{
     display: inline-block;
-    width: 30px;
+    width: 100px;
     height: 100px;
     background-color: rgb(71, 197, 247);
     margin-left: 50px;
+    border-radius: 50%;
 }
 
 .big2{
