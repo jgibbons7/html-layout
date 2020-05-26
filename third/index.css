@@ -1,0 +1,50 @@
+body {
+  width: 60vw;
+  text-align: left;
+  margin: auto;
+}
+
+.greyBar {
+  width: 100 vw;
+  height: 120px;
+  background-color: rgba(128, 128, 128, 0.486);
+  padding-top: 15px;
+}
+
+.blueBox {
+margin-left: 15px;
+background-color: rgb(37, 93, 214);
+height: 100px;
+width: 100px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  font-size: 24px;
+  margin: 50px;
+}
+
+
+.blueBar {
+  height: 150px;
+  background-color: rgb(37, 93, 214);
+}
+
+.greenBar {
+  height: 150px;
+  background-color: rgb(42, 226, 202);
+  
+}
+
+.limeBar {
+  height: 150px;
+  background-color: rgb(221, 253, 131);
+  
+}
+
+.yellowBar{
+  height: 150px;
+  background-color: rgb(252, 255, 74);
+  
+}
